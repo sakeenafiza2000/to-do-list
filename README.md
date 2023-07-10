@@ -1,2 +1,5 @@
 # to-do-list
-Created with CodeSandbox
+
+# Features
+<li>Add Item</li>
+<li>Remove Item</li>
